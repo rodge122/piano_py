@@ -1,0 +1,9 @@
+Download Python version 3.10 from the website https://www.python.org/downloads/release/python-3.10.0 /. Don't forget to add Python to the PATH environment variable.
+
+At the command prompt, type the following commands:
+
+* pip install keyboard
+* pip install pygame
+* pip install mixer.
+
+Now you can run the file Piano.py .
